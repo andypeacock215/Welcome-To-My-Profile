@@ -3,7 +3,7 @@ My name is Andy Peacock
 ====================================================================================================================================  
 My Portfolio 
 ------------  
-* 🌍  I'm based in Durham *
+* 🌍  I'm based in County Durham
 * ✉️  You can contact me at [andypeacock215@live.co.uk](mailto:andypeacock215@live.co.uk)
 * 🧠  I'm learning Data Analysis skills, including Excel, Tableau, Power BI, SQL, Microsoft Azure and Python
 
