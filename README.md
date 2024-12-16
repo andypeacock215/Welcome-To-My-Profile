@@ -5,7 +5,7 @@ My Portfolio
 ------------  
 * 🌍  I'm based in Durham *
 * ✉️  You can contact me at [andypeacock215@live.co.uk](mailto:andypeacock215@live.co.uk)
-* * 🧠  I'm learning Data Analysis skills, including Excel, Tableau, Power BI, SQL, Microsoft Azure and Python
+* 🧠  I'm learning Data Analysis skills, including Excel, Tableau, Power BI, SQL, Microsoft Azure and Python
 
 ### Skills  
 
