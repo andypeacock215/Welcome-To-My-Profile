@@ -22,4 +22,4 @@ My Portfolio
 
 # Find below different analysis projects I have worked on during my Data Skills Bootcamp:
 
-## [Excel Analysis projects](https://github.com/andypeacock215/Excel-analysis.git)
+## [Excel Analysis projects](https://andypeacock215.github.io/Excel-analysis/)
