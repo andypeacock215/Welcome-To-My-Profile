@@ -1,8 +1,4 @@
 ![Andy Peacock LOGO](https://github.com/user-attachments/assets/36c03c80-82a5-44e6-8d99-36a07187ccde)
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
-My name is Andy Peacock
 ====================================================================================================================================  
 My Portfolio 
 ------------  
