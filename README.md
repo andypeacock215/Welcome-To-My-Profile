@@ -1,7 +1,7 @@
 ![Andy Peacock LOGO](https://github.com/user-attachments/assets/36c03c80-82a5-44e6-8d99-36a07187ccde)
 ====================================================================================================================================  
-My Portfolio 
-------------  
+### My Portfolio
+
 * 🌍  I'm based in County Durham
 * ✉️  You can contact me on my [LinkedIn profile](https://linkedin.com/in/andy-peacock-83bb22331)
 * 🧠  I'm learning Data Analysis skills, including Excel, Tableau, Power BI, SQL, Microsoft Azure and Python
@@ -25,5 +25,6 @@ My Portfolio
 
 ## [Power BI projects](https://andypeacock215.github.io/PowerBI/)
 
- ### Socials
+### Socials
+
  <p align="left"> <a href="https://www.github.com/andypeacock215" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/Andy-peacock-83bb22331" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/andypeacock215" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
