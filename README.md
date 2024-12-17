@@ -25,9 +25,9 @@
 
 ## [Power BI projects](https://andypeacock215.github.io/PowerBI/)
 
-## [SQL](https://andypeacock215.github.io/SQL/)
+## [SQL projects](https://andypeacock215.github.io/SQL/)
 
-## [Microsoft Azure](https://andypeacock215.github.io/Azure/)
+## [Microsoft Azure projects](https://andypeacock215.github.io/Azure/)
 
 ### Socials
 
