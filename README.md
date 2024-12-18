@@ -29,7 +29,7 @@
 
 ## [Microsoft Azure projects](https://andypeacock215.github.io/Azure/)
 
-## [Python [projects](https://andypeacock215.github.io/Python/)
+## [Python projects](https://andypeacock215.github.io/Python/)
 
 ## [Data in Business project](https://andypeacock215.github.io/DataInBusiness/)
 
