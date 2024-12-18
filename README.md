@@ -14,8 +14,13 @@
 
 
 ### Skills  
+<p align="left"> <img src="https://github.com/user-attachments/assets/de99dcb4-2766-4b42-ab2b-fd6fd4986c86" width="36" height="36" />
+<img src="https://github.com/user-attachments/assets/3be95d58-a224-4f2a-acc6-93504b672461" width="36" height="36" />
+<img src="https://github.com/user-attachments/assets/1961f593-30d3-4117-acfd-8f8bf46155e3" width="36" height="36" />
+<img src="https://github.com/user-attachments/assets/c0c6058d-e866-451f-9846-153a6444870a" width="36" height="36" />
+<img src="https://github.com/user-attachments/assets/7ebe27fe-5b28-472c-9172-2c406bd07120" width="36" height="36" />
+<img src="https://github.com/user-attachments/assets/1e45f6be-ae5d-4e91-bf0b-9a5ccf910fab" width="36" height="36" />
 
-<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> </p> 
 
 # Find below different analysis projects I have worked on during my Data Technician Skills Bootcamp:
 
