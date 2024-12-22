@@ -1,5 +1,7 @@
-![Andy Peacock LOGO](https://github.com/user-attachments/assets/36c03c80-82a5-44e6-8d99-36a07187ccde)
-====================================================================================================================================  
+<p align="center"> <img src="https://github.com/user-attachments/assets/950cba57-54b0-4b40-a5bb-74c60f592d74" width="300" /></p>
+
+# Andy Peacock
+
 ### My Portfolio
 
 * 🌍  I'm based in County Durham
