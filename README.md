@@ -42,6 +42,8 @@
 
 ## [Reflective Practice](https://andypeacock215.github.io/Reflective-Practice/)
 
+## [About Me](https://andypeacock215.github.io/About-Me/)
+
 ## [Portfolio on Google Sites](https://sites.google.com/view/andypeacock215/home)
 
 ### Socials
